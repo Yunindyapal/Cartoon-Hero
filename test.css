@@ -1,0 +1,30 @@
+body{
+	background-color: antiquewhite;
+}
+
+h1{
+font-size: 30px;
+color: #552F0E;
+}
+
+h2{
+font-size: 20px;
+color: #865A33
+}
+
+.AB{
+font-size: 35px;
+color: sienna;
+}
+
+.UC{
+text-transform: uppercase;
+}
+
+.AB.UC{
+color: maroon;
+}
+
+h1 span{
+color: dimgray;
+}
